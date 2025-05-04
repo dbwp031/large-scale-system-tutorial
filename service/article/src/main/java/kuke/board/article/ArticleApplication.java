@@ -1,4 +1,4 @@
-package kuke.board.articleread;
+package kuke.board.article;
 
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
